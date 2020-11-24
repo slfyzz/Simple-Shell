@@ -1,0 +1,4 @@
+Starting new Shell at Tue Nov 10 11:00:06 2020
+Child Proccess 9097 was terminated with status 0 at Tue Nov 10 11:00:19 2020
+Child Proccess 8888 was terminated with status 0 at Tue Nov 10 11:00:22 2020
+Closing the shell at Tue Nov 10 11:00:24 2020
